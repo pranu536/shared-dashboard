@@ -71,3 +71,6 @@ export default defineConfig([
   },
 ])
 ```
+## Deployment Update
+
+Updated deployment on Vercel.
